@@ -6,17 +6,11 @@ This certification is tailored for cybersecurity practitioners who aim to deepen
 
 This review includes personal notes and an example of the methodologies applied during the exam.
 
-<aside>
-👉
+> 👉 **Personal Notes on the Course Content**  
+> In this section, I’ve included some of my notes to help guide others studying for the eCIR certification.  
+> These notes summarize key takeaways from each module, covering essential techniques, tools, and strategies for threat hunting within networks and endpoints.  
+> [eCIR Certification Notes](https://www.notion.so/eCIR-Certification-Notes-13f6583d22bc8011b509deb641f4ad0d?pvs=21)
 
-**Personal Notes on the Course Content**
-
-In this section, I’ve included some of my notes to help guide others studying for the eCIR certification. 
-These notes summarize key takeaways from each module, covering essential techniques, tools, and strategies for threat hunting within networks and endpoints. 
-
-[eCIR Certification Notes](https://www.notion.so/eCIR-Certification-Notes-13f6583d22bc8011b509deb641f4ad0d?pvs=21)
-
-</aside>
 
 ### Certification Breakdown
 
@@ -43,14 +37,12 @@ Candidates are required to document their findings in a comprehensive report, de
 
 ### Personal Tips for Success
 
-<aside>
-👉
+> 👉 This certification, in my experience, presents a **medium-to-low difficulty level**, especially if you are already familiar with tools like `Splunk`, `ELK` and `Wireshark`.  
+> My approach was to methodically investigate each host present in the network by analyzing possible [**Windows Security Log Events**](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/).  
+> From there, I built my understanding and followed up with targeted investigations, leveraging my prior knowledge of these tools.  
+> The hands-on nature of the exam and the need for a structured methodology made the process both challenging and rewarding.
 
-This certification, in my experience, presents a **medium-to-low difficulty level**, especially if you are already familiar with tools like `Splunk`, `ELK` and `Wireshark`. 
-My approach was to methodically investigate each host present in the network by analyzing possible [**Windows Security Log Events**](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/). 
-From there, I built my understanding and followed up with targeted investigations, leveraging my prior knowledge of these tools. The hands-on nature of the exam and the need for a structured methodology made the process both challenging and rewarding.
 
-</aside>
 
 1. **Master Core Tools**: Familiarize yourself deeply with Splunk, ELK. Focus on advanced features like custom queries, regex, and anomaly detection patterns.
 2. **Analyze PCAP Files**: Practice using tools like Wireshark to analyze network traffic, especially for identifying malicious communications.
