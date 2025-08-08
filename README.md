@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/068e593e-b275-4863-921b-de77aa4b2b3f" />
+
 The **Certified Incident Responder (eCIR)** by INE is a certification designed for professionals specializing in incident response and forensic investigations.
 
 This certification is tailored for cybersecurity practitioners who aim to deepen their skills in identifying, containing, and remediating security incidents effectively. Priced at **€400**, the certification includes a practical exam lasting **two days**, followed by an additional **two days** to submit the final report detailing your findings.
@@ -58,9 +60,9 @@ From there, I built my understanding and followed up with targeted investigation
 
 ![eCIR_DANDREA_CERTIFICATION](eCIR_DANDREA.png)
 
-[eCIR_Letter_of_Engagement.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebd839ec-c768-4dd4-861e-67c0b75b221f/6ce7c46f-6452-471a-964a-c62e26772fb5/eCIR_Letter_of_Engagement.pdf)
+[eCIR_Letter_of_Engagement.pdf](eCIR_Letter_of_Engagement.pdf)
 
-[scenario2-traffic-capture.pcap](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebd839ec-c768-4dd4-861e-67c0b75b221f/77ef8bac-f138-43d6-8f62-45d0360fa892/scenario2-traffic-capture.pcap)
+[scenario2-traffic-capture.pcap](scenario2-traffic-capture.pcap)
 
 ### Conclusion
 
