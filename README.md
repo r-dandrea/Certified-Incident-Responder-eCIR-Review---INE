@@ -56,7 +56,8 @@ From there, I built my understanding and followed up with targeted investigation
 4. **Leverage MITRE ATT&CK**: Use this framework to map attack techniques and provide structured context in your report.
 5. **Take Detailed Notes**: During the labs, document every step. These notes will help streamline your report writing and ensure you don’t miss critical details.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebd839ec-c768-4dd4-861e-67c0b75b221f/9503d807-e146-4f3e-af75-56782f50645c/image.png)
+<p align="center"><img width="180" alt="portfolio_view" src="eCIR_DANDREA"></p>
+
 
 [eCIR_Letter_of_Engagement.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebd839ec-c768-4dd4-861e-67c0b75b221f/6ce7c46f-6452-471a-964a-c62e26772fb5/eCIR_Letter_of_Engagement.pdf)
 
